@@ -23,21 +23,4 @@ This structure is intentionally aligned with modular, scalable research workflow
 
 
 
-AutoTrade_core/
-  autotrade/
-    engine/
-    strategy/
-    risk/
-    data/
-    utils/
-  scenarios/
-  data/
-  analytics/
-  ai_agents/
-  tests/
-  README.md
-  ARCHITECTURE.md
-  PROJECT_STRUCTURE.md
-  CONTRIBUTING.md
-  CODE_OF_CONDUCT.md
-  LICENSE.md
+
