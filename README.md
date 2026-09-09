@@ -85,27 +85,27 @@ This means the project now has a closed and working:
 - **EPIC 2 completion:** 100%
 - **EPIC 3 completion:** 100%
 - **EPIC 4 completion:** 100%
-- **EPIC 5 completion:**  60%
+- **EPIC 5 completion:** 100%
 - **Phase 1 progress by major epic count:** ~85%
 - **Current step:** define and execute **EPIC 5 — Evaluation & Go-Live Gate**
 
 ### Progress snapshot
 
 ```text
-Phase 1 — Core Trading Program ...................  ~85%  ████████████████
+Phase 1 — Core Trading Program ...................  100%  ████████████████
 
 EPIC 1 — Descriptive / Intelligence Foundation ...  100%  ████████████████████    ~30%
 EPIC 2 — Decision / Strategy Foundation ..........  100%  ████████████████████    ~15%
 EPIC 3 — Execution Layer .........................  100%  ████████████████████    ~10%
 EPIC 4 — Risk & Portfolio Layer ..................  100%  ████████████████████    ~10%
-EPIC 5 — Evaluation & Go-Live Gate ...............   60%  ███████████             ~30%
-EPIC H — Historical Data Layer ...................    0%                           ~5%
+EPIC 5 — Evaluation & Go-Live Gate ...............  100%  ███████████               ~30%
+EPIC H — Historical Data Layer ...................    0%                              ~5%
 ```
 
 ```text 
 AutoTrade Project ................................  ~20%  ████    
 
-PHASE 1 — Core Trading Program ...................  ~85%  ████████████████        ~25%
+PHASE 1 — Core Trading Program ...................  ~85%  ████████████████     ~25%
 PHASE 2 — Stabilization & Capital Scaling ........    0%                          ~25%
 PHASE 3 — Advanced Profit Engines ................    0%                          ~25%
 PHASE 4 — Platformization & Expansion ............    0%                          ~25%
