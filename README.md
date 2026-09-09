@@ -26,6 +26,7 @@ It intentionally avoids source code, internal implementation details, and propri
 
 ---
 
+
 ## What the Project Is Trying to Build
 
 The long-term goal of AutoTrade Core is to create a trading platform that can:
