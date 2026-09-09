@@ -71,6 +71,7 @@ That makes progress slower at the beginning, but much stronger later.
 **EPIC 2 is complete.**  
 **EPIC 3 is complete.**  
 **EPIC 4 is complete.**
+**EPIC 5 is complete.**
 
 This means the project now has a closed and working:
 
